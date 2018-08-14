@@ -14,7 +14,7 @@ The raw IMU data contain 10-minute 9-degree of freedom (gyroscope, linear accele
 
 ### Installing
 
-It is recommended to install all the prerequisites and have suitable hardware in place. Our raw IMU csv files are located in IMUraw.zip; Acceleration measurements in Earth reference frame can be found in control.zip or treated.zip.
+It is recommended to install all the prerequisites and have suitable hardware in place. Our raw IMU csv files are located in IMUraw.zip; Acceleration measurements in Earth reference frame can be found in control.zip or treated.zip. These zip files are available upon request.
 
 ## Authors
 
